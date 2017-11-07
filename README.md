@@ -20,7 +20,7 @@ upstream_url
 host
 
 ### Sample Json file
-
+```
 {"data":[
 {"methods":[
 "GET",
@@ -32,6 +32,7 @@ host
 "name":"ibm"
 }
 }
+```
 or you can take dumb from kong server using following endpoint
 curl locolhost:8001/apis
 

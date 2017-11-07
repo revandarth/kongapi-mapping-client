@@ -1,0 +1,11 @@
+{"data":[{"name":"cors",
+        "enabled":true,
+        "config":{"origins":["*"],
+          "credentials":true,
+          "preflight_continue":false,
+          "headers":["Accept","Accept-Version","Content-Length","Content-MD5","Content-Type","Date","X-Auth-Token","Access-Control-Allow-Origin","Authorization"]
+        }
+      }
+    ],
+"total":1
+}

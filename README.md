@@ -3,7 +3,7 @@
 This repo has java code to auto configure apis on Kong Gateway based on provided list of apis in json file.
 
 Jar File:
-
+Fix is ready
 ### Prerequisites
 
 kong gateway should be up and serving the api at localhost:8001

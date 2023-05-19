@@ -5,7 +5,7 @@ This repo has java code to auto configure apis on Kong Gateway based on provided
 Jar File:
 
 ### Prerequisites
-
+ TESTING
 kong gateway should be up and serving the api at localhost:8001
 
 Note: Make sure you use 8001 port, it will fail otherwise since jar is hard coded with port 8001(May be you can update the code that take endpoint as argument)
